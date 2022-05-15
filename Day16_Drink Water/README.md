@@ -1,6 +1,6 @@
 #Drink Water 
 
-landng page.......
+landng page........
 
 ![image](https://user-images.githubusercontent.com/81670997/168460764-997d3f58-2ab0-445f-8a91-85e67f3d6f8b.png)
 
