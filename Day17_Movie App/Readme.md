@@ -10,6 +10,8 @@ when hovering on any movie......
 
 When Searching a movie......
 
+![image](https://user-images.githubusercontent.com/81670997/168537014-eea5ea9a-b211-47cf-b122-7f6338731418.png)
+
 
 
 
