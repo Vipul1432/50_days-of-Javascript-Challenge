@@ -6,4 +6,7 @@ landing page.....
 
 when hovering on any movie......
 
+![image](https://user-images.githubusercontent.com/81670997/168536720-4e6291d9-e262-4c12-886d-b475c80b9dfe.png)
+
+
 
