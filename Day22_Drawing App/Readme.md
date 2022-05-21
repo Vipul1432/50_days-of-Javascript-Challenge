@@ -14,3 +14,5 @@
 
 #When you want to change drawing color paste the hex code of that color and here you go .........
 
+![image](https://user-images.githubusercontent.com/81670997/169639672-e224b9d1-8af6-450a-8bbf-b1e59052ceaf.png)
+
