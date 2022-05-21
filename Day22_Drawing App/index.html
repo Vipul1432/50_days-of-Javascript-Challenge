@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Drawing App</title>
+</head>
+
+<body>
+    <h1>Draw Something Creative</h1>
+    <div class="container">
+        <canvas id="canvas" width="600" height="400"></canvas>
+        <div class="color">
+            <input id="hex" placeholder="Enter HexColorCode"></input>
+        </div>
+        <div class="lineWidth">
+            <input id="lineWidthNumber" type="number" min="1" max="10" value="5">
+        </div>
+        <button id="button" class="button">Reset</button>
+
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
