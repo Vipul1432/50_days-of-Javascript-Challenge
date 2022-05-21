@@ -12,3 +12,5 @@
 
 ![image](https://user-images.githubusercontent.com/81670997/169639250-8b1c723a-48a8-43de-985f-f0a621730e1a.png)
 
+#When you want to change drawing color paste the hex code of that color and here you go .........
+
