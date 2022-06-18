@@ -1,3 +1,3 @@
 # Custom-range-slider
 
-Live Demo
+Live Demo [Click here...]
