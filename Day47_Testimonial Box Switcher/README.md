@@ -1,3 +1,3 @@
 # Testimonial Box Switcher
 
-Live Demo
+Live Demo [Click here...]
