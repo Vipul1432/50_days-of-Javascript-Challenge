@@ -6,4 +6,6 @@ Live Demo [Click here...](https://vipul1432.github.io/50_days-of-Javascript-Chal
 
 ![image](https://user-images.githubusercontent.com/81670997/175341899-5efdd74c-f350-4536-8298-5e9d417ff3e8.png)
 
+![image](https://user-images.githubusercontent.com/81670997/175341987-b4142fbd-e30f-4934-a4fe-7d3e1d270098.png)
+
 
