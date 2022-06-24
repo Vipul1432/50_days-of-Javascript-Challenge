@@ -1,3 +1,3 @@
 # Insect Catch Game
 
-Live Demo [Click]
+Live Demo [Click here]
